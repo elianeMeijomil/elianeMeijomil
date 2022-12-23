@@ -1,5 +1,3 @@
-elianeMeijomil/README.md
-
 ### Hi there, I'm Eliane Meijomil 👋
 Change is the only constant in life. Don't fear the change, embrace it and go with the flow
 

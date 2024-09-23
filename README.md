@@ -45,10 +45,6 @@ Change is the only constant in life. Don't fear the change, embrace it and go wi
     <img align="center" alt="eliane-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-# 🍀 Life things and Soft Skills
-- I talk about life things at [my blog](http://elianemeijomil.com) in ptBR🇧🇷
-- I stutied a lot about psychology in the past 5 years
-- I'm also integrative holistic terapist 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=elianeMeijomil&show_icons=true&count_private=true)
 

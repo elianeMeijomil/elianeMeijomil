@@ -1,7 +1,7 @@
 ### Hi there, I'm Eliane Meijomil 👋
 Change is the only constant in life. Don't fear the change, embrace it and go with the flow
 
-- 🕵️‍♀️ I´m learning about [Reactjs, ReactNative, Nodejs, Nextjs, Javascript, Typescript]
+- 🕵️‍♀️ I´m learning about [Kotlin,Java, C#]
 - 💬 Ask me about [html, css, javascript, php5, git, vscode]
 - 🌱 In portuguese we don't say "I'm webdeveloper since 1999" we say: "when I arrived here, it was all grass"
 

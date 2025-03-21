@@ -1,67 +1,58 @@
 ### Hi there, I'm Eliane Meijomil 👋
 Change is the only constant in life. Don't fear the change, embrace it and go with the flow
 
-- 🕵️‍♀️ I´m learning about [Kotlin,Java, C#]
+- 🕵️‍♀️ I´m learning about [Kotlin,Java, C#, Design Patterns]
 - 💬 Ask me about [html, css, javascript, php5, git, vscode]
-- 🌱 In portuguese we don't say "I'm webdeveloper since 1999" we say: "when I arrived here, it was all grass"
 
-# Tecnologies 🚀
+<h2 align="center">TECNOLOGIES 🧑‍💻</h2>
 
-  
-<div style="display: inline_block;padding:1rem 2rem 2rem;">
-    <img align="center" alt="eliane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img align="center" alt="eliane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img align="center" alt="eliane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="eliane-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-    <img align="center" alt="eliane-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+###
 
-##  Currently Learning 
-<div style="display: inline_block;padding:1rem 2rem 2rem;">
-    <img align="center" alt="eliane-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-    <img align="center" alt="eliane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" alt="eliane-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="eliane-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-    <img align="center" alt="eliane-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img align="center" alt="eliane-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elianeMeijomil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elianeMeijomil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## Tools
- <div style="display: inline_block;padding:1rem 2rem 2rem;">   
-    <img align="center" alt="eliane-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img align="center" alt="eliane-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-    <img align="center" alt="eliane-illustator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" />
-    <img align="center" alt="eliane-inkscape" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" />
-    <img align="center" alt="eliane-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="eliane-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-</div>
+###
 
-## Outdated CMS and Frameworks
-<div style="display: inline_block;padding:1rem 2rem 2rem;">   
-    <img align="center" alt="eliane-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />
-    <img align="center" alt="eliane-cakephp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg" />
-    <img align="center" alt="eliane-woocommerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" />
-    <img align="center" alt="eliane-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
-    <img align="center" alt="eliane-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elianeMeijomil/elianeMeijomil/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elianeMeijomil/elianeMeijomil/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elianeMeijomil/elianeMeijomil/output/pacman-contribution-graph.svg">
+</picture>
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=elianeMeijomil&show_icons=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elianeMeijomil&layout=compact)
-
-
-**elianeMeijomil/elianeMeijomil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###

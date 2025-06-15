@@ -1,4 +1,4 @@
-### Hi there, I'm Eliane Meijomil 👋
+### Hi there, I'm Eliane 👋
 Change is the only constant in life. Don't fear the change, embrace it and go with the flow
 
 - 🕵️‍♀️ I´m learning about [Kotlin,Java, C#, Design Patterns]

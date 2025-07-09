@@ -44,11 +44,11 @@ Change is the only constant in life. Don't fear the change, embrace it and go wi
 <div>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=elianeMeijomil&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=elianecc&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=elianeMeijomil&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=elianecc&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -56,23 +56,23 @@ Change is the only constant in life. Don't fear the change, embrace it and go wi
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elianeMeijomil&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elianecc&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elianeMeijomil&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elianecc&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianeMeijomil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianecc" />
 </picture>
 
 </div>
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elianeMeijomil/elianeMeijomil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elianeMeijomil/elianeMeijomil/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elianeMeijomil/elianeMeijomil/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elianecc/elianecc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elianecc/elianecc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elianecc/elianecc/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
